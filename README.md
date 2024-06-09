@@ -101,8 +101,10 @@ Por defecto, este trabajo ha sido realizado con los datasets de HAM10000, HIBA, 
  ## Autores
  
  * **Manuel Muñiz Perálvarez**
-   
 > Idea original de David Martín Tinaquero
 
 > Continuación de Enrique Fernández Morales
 
+## Licencia
+
+Este proyecto se encuentra bajo la licencia CC0-1.0. Para más información revisa el archivo LICENSE.md del repositorio.
