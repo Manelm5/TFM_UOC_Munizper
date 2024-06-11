@@ -8,10 +8,6 @@ Con miras al perfeccionamiento de los modelos, se busca abordar diversas tipolog
 
 Este trabajo tiene como objetivo principal investigar cómo influyen los factores externos en la herramienta de diagnóstico temprano para ayudar en la detección de un posible cáncer de piel.
 
-**Nota:** El fichero TFM_Exploratory_Sevilla.ipynb no se encuentra compartido en el repositorio dado el acuerdo interno de privacidad con el Hospital Universitario Virgen del Rocío de Sevilla. 
-
-Por lo contrario, TFM_Clima_Data_Sevilla.ipynb si se encuentra disponible dado que hace referencia a datos climatológicos públicos obtenidos de POWER (https://power.larc.nasa.gov/).
-
 # Ejecución del proyecto
 
 ## Pre-requisitos
